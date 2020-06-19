@@ -1,2 +1,3 @@
 # hello-world
-Just following the guide
+
+Just testing out the commit function
